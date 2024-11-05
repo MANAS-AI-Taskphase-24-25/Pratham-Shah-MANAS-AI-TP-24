@@ -1,5 +1,4 @@
-Please ignore all files except the .ipynb notebook.
-The entire Linear Regression model exists on that notebook.
+Please refer to the .ipynb notebook for the complete linear regression model.
 
 Key to access:
-git remote set-url origin https://prathamshah607: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@github.com/MANAS-AI-Taskphase-24-25/Pratham-Shah-JTP-6.git
+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
