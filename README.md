@@ -1,3 +1,5 @@
+![alt text](https://cdn11.bigcommerce.com/s-nq6l4syi/images/stencil/1280x1280/products/119904/2017973/70712-1024__84690.1721794959.jpg?c=2?imbypass=on)
+
 # Hey There!
 Welcome to my repository!
 ## Linear Regression Task:
