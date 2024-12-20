@@ -10,5 +10,5 @@ The bonus task's output has been saved in the 'output.csv' file.
 The logistic regression task output and programme are in the .ipynb notebook
 ## K-Means Clustering Task:
 K-Means clustering, including PCA dimension reduction, has been implemented in the corresponding .ipynb notebook. Since the clusters are in 3D, it may be difficult to visualise them statically. So, I've put a recording of the movable graph as a .webm file.
-## Decision Tree Task:
+## Decision Tree Task (Work in Progress):
 This was a hard one! I'd like to improve the accuracy more, but the best model I've come up with so far has been stored in the .ipynb notebook
