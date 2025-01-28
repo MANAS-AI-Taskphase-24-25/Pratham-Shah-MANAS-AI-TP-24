@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/16325446-1bb2-41d5-8010-60cfebddcd84)![alt text](https://preview.redd.it/fitonthatthang-v0-36rp8z939eqd1.jpeg?width=1080&crop=smart&auto=webp&s=d018b993df2a3b56b10fde170e85461ee39fcc08)
+![image](https://github.com/user-attachments/assets/16325446-1bb2-41d5-8010-60cfebddcd84)!
 
 # Hey There!
 Welcome to my repository!
