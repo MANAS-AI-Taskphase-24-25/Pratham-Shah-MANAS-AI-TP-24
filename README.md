@@ -14,3 +14,5 @@ K-Means clustering, including PCA dimension reduction, has been implemented in t
 I'd like to improve the accuracy more, but the best model I've come up with so far has been stored in the .ipynb notebook.
 ## Ensemble Methods Task:
 Ensemble methods like boosting, bagging and random forests.
+## Neural Networks Task:
+Neural Network built, trained and tested in the corresponding .ipynb notebook.
