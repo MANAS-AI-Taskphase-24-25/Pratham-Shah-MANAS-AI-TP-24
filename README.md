@@ -16,3 +16,5 @@ I'd like to improve the accuracy more, but the best model I've come up with so f
 Ensemble methods like boosting, bagging and random forests.
 ## Neural Networks Task:
 Neural Network built, trained and tested in the corresponding .ipynb notebook.
+## ROS Chat App:
+Simple ROS Chat Application using publisher and subscriber nodes and python.
