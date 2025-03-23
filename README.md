@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/16325446-1bb2-41d5-8010-60cfebddcd84)
-
 # Hey There!
 Welcome to my repository!
 ## Linear Regression Task:
