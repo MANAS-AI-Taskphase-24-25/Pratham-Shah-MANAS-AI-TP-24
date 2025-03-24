@@ -16,3 +16,5 @@ Ensemble methods like boosting, bagging and random forests.
 Neural Network built, trained and tested in the corresponding .ipynb notebook.
 ## ROS Chat App:
 Simple ROS Chat Application using publisher and subscriber nodes and python.
+## OpenCV Task:
+The output video file with the ball detector, player markers and count is uploaded in the folder.
