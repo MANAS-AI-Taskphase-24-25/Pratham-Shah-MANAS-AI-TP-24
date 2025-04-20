@@ -20,3 +20,5 @@ Simple ROS Chat Application using publisher and subscriber nodes and python.
 The output video file with the ball detector, player markers and count is uploaded in the folder.
 ## Tensorflow based CNN Task:
 The entire implementation has been shown, along with validation, in the ipynb notebook.
+## MapTheMap:
+The outputs of the model have been saved in main.ipynb (auto-generated-split) and stitched_pipeline.ipynb (user-defined-split).
